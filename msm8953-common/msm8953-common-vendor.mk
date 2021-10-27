@@ -744,7 +744,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     TimeService \
     android.hardware.gnss@2.1-service-qti \
-    datastatusnotification \
     dpmserviceapp \
     ims \
     ScreenshotTile \
